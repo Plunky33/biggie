@@ -1,3 +1,12 @@
 [submodule "deps/coffee-script"]
 	path = deps/coffee-script
 	url = git://github.com/jashkenas/coffee-script.git
+[submodule "deps/router"]
+	path = deps/router
+	url = git://github.com/biggie/biggie-router.git
+[submodule "deps/orm"]
+	path = deps/orm
+	url = git://github.com/biggie/biggie-orm.git
+[submodule "deps/asset"]
+	path = deps/asset
+	url = git://github.com/biggie/biggie-asset.git
